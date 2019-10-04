@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Pandas
+2. Dumplings
+3. Disney
+4. Jane Austen
+5. Pride and Prejudice
+6. Crafting
